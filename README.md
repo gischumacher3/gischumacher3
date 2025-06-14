@@ -27,10 +27,10 @@
 
 ### 💡 Especialidades
 
-•⁠  ⁠*UI Design • UX Design • Web Design • Prototipação • Branding*  
-•⁠  *⁠HTML • CSS • JavaScript* 
-•⁠  ⁠*Performance, responsividade e acessibilidade em interfaces*  
-•⁠  ⁠*Design centrado no usuário e criação de identidades visuais*
+*UI Design • UX Design • Web Design • Prototipação • Branding*  
+*⁠HTML • CSS • JavaScript* 
+⁠*Performance, responsividade e acessibilidade em interfaces*  
+*Design centrado no usuário e criação de identidades visuais*
 <br>
 <br>
 <br>
